@@ -46,5 +46,5 @@ Body = raw
 localhost:/1234/order/:id = Put
 Body = raw = Update Data
 
-secara garis besar seperti ini, Sekali lagi saya meminta maaf atas kurangnya pengerjaan saya. Terima Kasih.
+secara garis besar seperti ini, Apabila ada Kesalahan dalam pengerjaan saya Kontak Email saya, Sekali lagi saya meminta maaf atas kurangnya pengerjaan saya. Terima Kasih.
 
